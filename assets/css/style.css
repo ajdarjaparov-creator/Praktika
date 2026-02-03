@@ -3,8 +3,18 @@ body{
     font-family: "Pixelify Sans", sans-serif !important; 
     font-weight: 400;
     font-style: normal;
-    background-color: black;
+    background-color: #31284c;
 }
 .greeting{
     font-size: 30px;
+}
+.yellow-word{
+    color: yellow;
+}
+.text-animated:hover{
+    text-decoration: underline;
+    cursor: default;
+}
+hr{
+    
 }
